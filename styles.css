@@ -1,1 +1,15 @@
-
+body{
+	color:blue;
+	text-size:large;
+}
+#button{
+	color:green;
+	margin:10px;
+	border:1px solid red;
+	height:30px;
+	width:100px;
+}
+input{
+	marign:10px;
+	height:30px;
+}
